@@ -5,7 +5,7 @@
 ### Create Task Request
 
 ```js
-POST /tasks;
+POST /tasks
 ```
 
 ```json
