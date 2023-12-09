@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\TodoList.Contracts\TodoList.Contracts.csproj" />
   </ItemGroup>
 
 </Project>
