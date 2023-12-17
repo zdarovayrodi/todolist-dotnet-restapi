@@ -3,7 +3,7 @@ namespace TodoList.Models;
 public class Task
 {
     public Guid Id { get; set; }
-    public string Title { get; }
+    public string Title { get; set; }
     public string Description { get; }
     public DateTime Deadline { get; }
     public DateTime LastModifiedDateTime { get; }
